@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = "ForceStatusBarSettings";
+		cell = PSLinkCell;
+		detail = "ForceStatusBarSettingsListController";
+		icon = "Icon.png";
+		isController = 1;
+		label = "Force Status Bar";
+	};
+}
