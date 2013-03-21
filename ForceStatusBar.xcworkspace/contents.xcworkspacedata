@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:settings"
+      name = "settings">
+      <FileRef
+         location = "group:entry.plist">
+      </FileRef>
+      <FileRef
+         location = "group:ForceStatusBarSettings.mm">
+      </FileRef>
+      <FileRef
+         location = "group:Makefile">
+      </FileRef>
+      <Group
+         location = "container:settings/Resources"
+         name = "Resources">
+         <FileRef
+            location = "group:ForceStatusBarSettings.plist">
+         </FileRef>
+         <FileRef
+            location = "group:Icon.png">
+         </FileRef>
+         <FileRef
+            location = "group:Icon@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "container:layout"
+      name = "layout">
+      <Group
+         location = "container:layout/DEBIAN"
+         name = "DEBIAN">
+         <FileRef
+            location = "group:control">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:Makefile">
+   </FileRef>
+   <FileRef
+      location = "group:ForceStatusBar.plist">
+   </FileRef>
+   <FileRef
+      location = "group:Tweak.xm">
+   </FileRef>
+</Workspace>
